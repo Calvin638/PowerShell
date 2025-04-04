@@ -1,5 +1,5 @@
 
-$processus = Get-Process
+$processus = Get-Process 
 
 $BigProcessus = $processus | Where-Object { $_.WorkingSet64 -gt 100MB }
 

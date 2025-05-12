@@ -39,3 +39,6 @@ Ce projet a pour objectif de fournir des **scripts PowerShell** permettant de r√
 
 1. Ouvrir PowerShell **en tant qu'administrateur**.
 2. Ex√©cuter le script de votre choix
+
+
+![alt text](image.png)

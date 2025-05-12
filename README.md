@@ -33,4 +33,4 @@ Modules :
 Script de récupération d'informations
 
 Scripts : 
-Script de récupération d'informations + tâches
+Script de récupération d'informations + exécution de tâches

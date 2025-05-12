@@ -30,8 +30,7 @@ Export :
 Résultats des scripts
 
 Modules : 
-Script d'informations
+Script de récupération d'informations
 
 Scripts : 
-
-Script d'information + tâches
+Script de récupération d'informations + tâches

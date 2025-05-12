@@ -6,6 +6,7 @@ Powershell-
           ---Audit.json
           ---Processus_ram.csv
           --Modules
+          ---AuditModules.ps1
           ---Devices.ps1
           ---Event.ps1
           ---Hardware.ps1

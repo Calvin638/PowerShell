@@ -27,7 +27,7 @@ Powershell-
           --Projet - Windows Powershell.pdf
 
 Export : 
-Résultats des scripts
+Résultats de certains scripts
 
 Modules : 
 Script de récupération d'informations

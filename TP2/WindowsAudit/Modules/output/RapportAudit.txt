@@ -1,0 +1,152 @@
+**********************
+PowerShell transcript start
+Start time: 20250512113844
+Username: PC-CALVIN\calvi
+RunAs User: PC-CALVIN\calvi
+Configuration Name: 
+Machine: PC-CALVIN (Microsoft Windows NT 10.0.26100.0)
+Host Application: C:\Program Files\PowerShell\7\pwsh.dll -noexit -command try { . "c:\Users\calvi\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catch {}
+Process ID: 7984
+PSVersion: 7.5.0
+PSEdition: Core
+GitCommitId: 7.5.0
+OS: Microsoft Windows 10.0.26100
+Platform: Win32NT
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1, 6.0, 7.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+WSManStackVersion: 3.0
+**********************
+Transcript started, output file is C:\Users\calvi\Documents\Irfa\AIS\Informatique\PowerShell\Projet\PowerShell\TP2\WindowsAudit\Modules\output\RapportAudit.txt
+Imprimantes Installées :
+
+Name                   DeviceID
+----                   --------
+OneNote (Desktop)      OneNote (Desktop)
+Microsoft Print to PDF Microsoft Print to PDF
+
+Périphériques USB Connectés :
+
+DeviceID                             PNPDeviceID                          Description
+--------                             -----------                          -----------
+USB\VID_0489&PID_E0CD\000000000      USB\VID_0489&PID_E0CD\000000000      Périphérique USB composite
+USB\VID_13D3&PID_56FF\6&347A9C07&0&3 USB\VID_13D3&PID_56FF\6&347A9C07&0&3 Périphérique USB composite
+USB\ROOT_HUB30\5&62EA36F&0&0         USB\ROOT_HUB30\5&62EA36F&0&0         Hub USB racine (USB 3.0)
+USB\ROOT_HUB30\5&293045CC&0&0        USB\ROOT_HUB30\5&293045CC&0&0        Hub USB racine (USB 3.0)
+
+
+TimeCreated         Message
+-----------         -------
+12/05/2025 11:08:46 Échec de l’installation : l’installation de la mise à jour suivante a échoue avec l’erreur 0x80073D02 : 9PC1H9VN18CM-Microsoft.StartExperi…
+12/05/2025 11:08:44 Échec de l’installation : l’installation de la mise à jour suivante a échoue avec l’erreur 0x80073D02 : 9NMPJ99VJBWV-Microsoft.YourPhone.
+12/05/2025 09:05:33 Échec de l’installation : l’installation de la mise à jour suivante a échoue avec l’erreur 0x80073D02 : 9NMPJ99VJBWV-Microsoft.YourPhone.
+12/05/2025 09:04:49 Échec de l’installation : l’installation de la mise à jour suivante a échoue avec l’erreur 0x80073D02 : 9PC1H9VN18CM-Microsoft.StartExperi…
+12/05/2025 08:55:30 Le service l1vhlwf n’a pas pu démarrer en raison de l’erreur : …
+12/05/2025 08:55:30 L’arrêt système précédant à 16:36:27 le ‎25/‎04/‎2025 n’était pas prévu.
+12/05/2025 08:55:14 Échec du démarrage rapide de Windows avec l’état d’erreur 0xC00000D4.
+24/04/2025 14:56:40 Le serveur {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} ne s’est pas enregistré sur DCOM avant la fin du temps imparti.
+24/04/2025 14:56:40 Le serveur {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} ne s’est pas enregistré sur DCOM avant la fin du temps imparti.
+24/04/2025 14:56:40 Le serveur {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} ne s’est pas enregistré sur DCOM avant la fin du temps imparti.
+24/04/2025 14:56:40 Le serveur {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} ne s’est pas enregistré sur DCOM avant la fin du temps imparti.
+24/04/2025 14:56:40 Le serveur {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} ne s’est pas enregistré sur DCOM avant la fin du temps imparti.
+24/04/2025 14:56:40 Le serveur {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} ne s’est pas enregistré sur DCOM avant la fin du temps imparti.
+24/04/2025 14:56:40 Le serveur {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} ne s’est pas enregistré sur DCOM avant la fin du temps imparti.
+24/04/2025 14:56:40 Le serveur {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} ne s’est pas enregistré sur DCOM avant la fin du temps imparti.
+24/04/2025 14:56:40 Le serveur {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} ne s’est pas enregistré sur DCOM avant la fin du temps imparti.
+24/04/2025 14:56:40 Le serveur {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} ne s’est pas enregistré sur DCOM avant la fin du temps imparti.
+24/04/2025 14:56:40 Le serveur {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} ne s’est pas enregistré sur DCOM avant la fin du temps imparti.
+24/04/2025 14:56:40 Le serveur {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} ne s’est pas enregistré sur DCOM avant la fin du temps imparti.
+24/04/2025 14:56:40 Le serveur {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} ne s’est pas enregistré sur DCOM avant la fin du temps imparti.
+
+Nom du PC : PC-CALVIN
+Fabricant : LENOVO
+Modèle : 82R4
+RAM installée : 14 Go
+Type de RAM : DDR4
+Processeur : AMD Ryzen 7 5700U with Radeon Graphics
+Disque C: - Total: 475 Go | Libre: 300 Go
+Adresse IP : 192.168.1.1
+Passerelle : 192.168.21.254
+Serveur DNS (IPv4) : 178.255.160.92, 178.255.160.94, 8.8.8.8
+Nom d'hôte : PC-CALVIN
+
+Name                          Status
+----                          ------
+VMware Network Adapter VMnet3 Up
+VMware Network Adapter VMnet8 Up
+VMware Network Adapter VMnet1 Up
+Wi-Fi                         Up
+
+Système d'exploitation :
+Version de Windows : Microsoft Windows 11 Famille
+Date de démarrage (Uptime) : 2025-05-12 08:55:14
+Architecture : 64 bits
+Utilisation CPU : 14 %
+Utilisation RAM : 52.55 %
+Disque C: : 36.75 % utilisé
+Pare-feu Windows :
+True
+Windows Defender :
+True
+
+DisplayName                                                        Publisher                     DisplayVersion
+-----------                                                        ---------                     --------------
+Brave                                                              Auteurs de Brave              136.1.78.97
+Cisco Packet Tracer 8.2.2 64Bit                                    Cisco Systems, Inc.           8.2.2.400
+Git                                                                The Git Development Community 2.49.0
+Lenovo Now                                                         Lenovo                        4.2.1.1
+Lenovo Vantage Service                                             Lenovo Group Ltd.             4.3.21.0
+LibreOffice 24.8.2.1                                               The Document Foundation       24.8.2.1
+Microsoft 365 - fr-fr                                              Microsoft Corporation         16.0.18623.20208
+Microsoft Edge                                                     Microsoft Corporation         136.0.3240.64
+Microsoft Edge WebView2 Runtime                                    Microsoft Corporation         136.0.3240.64
+Microsoft OneNote - fr-fr                                          Microsoft Corporation         16.0.18623.20208
+Microsoft Teams Meeting Add-in for Microsoft Office                Microsoft                     1.24.28402
+Microsoft Update Health Tools                                      Microsoft Corporation         5.72.0.0
+Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.36.32532 Microsoft Corporation         14.36.32532.0
+Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.36.32532 Microsoft Corporation         14.36.32532.0
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.36.32532     Microsoft Corporation         14.36.32532
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.36.32532        Microsoft Corporation         14.36.32532
+Microsoft Visual C++ 2022 X86 Additional Runtime - 14.36.32532     Microsoft Corporation         14.36.32532
+Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.36.32532        Microsoft Corporation         14.36.32532
+Office 16 Click-to-Run Extensibility Component                     Microsoft Corporation         16.0.18623.20156
+Office 16 Click-to-Run Licensing Component                         Microsoft Corporation         16.0.18623.20208
+Office 16 Click-to-Run Localization Component                      Microsoft Corporation         16.0.18623.20156
+PowerShell 7-x64                                                   Microsoft Corporation         7.5.0.0
+VMware Workstation                                                 VMware, Inc.                  17.6.1
+XAMPP                                                              Apache Friends                8.2.12-0
+
+Utilisateurs locaux :
+
+Name               Enabled
+----               -------
+Administrateur       False
+calvi                 True
+DefaultAccount       False
+Invité               False
+WDAGUtilityAccount   False
+
+Groupes locaux :
+
+Name
+----
+__vmware__
+Administrateurs
+Device Owners
+Hyper-V Administrators
+IIS_IUSRS
+Invités
+Lecteurs des journaux d’événements
+Opérateurs matériels en mode utilisateur
+System Managed Accounts Group
+Utilisateurs
+Utilisateurs de gestion à distance
+Utilisateurs de l’Analyseur de performances
+Utilisateurs du journal de performances
+Utilisateurs du modèle COM distribué
+Utilisateurs OpenSSH
+
+**********************
+PowerShell transcript end
+End time: 20250512113849
+**********************

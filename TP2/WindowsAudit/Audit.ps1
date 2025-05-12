@@ -1,3 +1,4 @@
+Start-Transcript -Path "C:\Users\calvi\Documents\Irfa\AIS\Informatique\PowerShell\Projet\PowerShell\TP2\WindowsAudit\Modules\output\RapportAudit.txt" -Append
 #Devices.ps1
 # Liste des imprimantes installées
 "Imprimantes Installées :"
@@ -119,3 +120,5 @@ Get-LocalUser | Select-Object Name, Enabled | Format-Table -AutoSize
 # Liste des groupes locaux
 "Groupes locaux : "
 Get-LocalGroup | Select-Object Name | Format-Table -AutoSize
+
+Stop-Transcript

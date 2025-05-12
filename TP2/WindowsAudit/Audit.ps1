@@ -1,4 +1,4 @@
-Start-Transcript -Path "C:\Users\calvi\Documents\Irfa\AIS\Informatique\PowerShell\Projet\PowerShell\TP2\WindowsAudit\Modules\output\RapportAudit.txt" -Append
+Start-Transcript -Path "C:\Users\calvi\Documents\Irfa\AIS\Informatique\PowerShell\Projet\PowerShell\TP2\WindowsAudit\output\RapportAudit.txt" -Append
 #Devices.ps1
 # Liste des imprimantes installées
 "Imprimantes Installées :"

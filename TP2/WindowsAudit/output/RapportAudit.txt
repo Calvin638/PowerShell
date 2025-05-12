@@ -1,6 +1,6 @@
 **********************
 PowerShell transcript start
-Start time: 20250512113844
+Start time: 20250512114709
 Username: PC-CALVIN\calvi
 RunAs User: PC-CALVIN\calvi
 Configuration Name: 
@@ -17,7 +17,7 @@ PSRemotingProtocolVersion: 2.3
 SerializationVersion: 1.1.0.1
 WSManStackVersion: 3.0
 **********************
-Transcript started, output file is C:\Users\calvi\Documents\Irfa\AIS\Informatique\PowerShell\Projet\PowerShell\TP2\WindowsAudit\Modules\output\RapportAudit.txt
+Transcript started, output file is C:\Users\calvi\Documents\Irfa\AIS\Informatique\PowerShell\Projet\PowerShell\TP2\WindowsAudit\output\RapportAudit.txt
 Imprimantes Installées :
 
 Name                   DeviceID
@@ -81,8 +81,8 @@ Système d'exploitation :
 Version de Windows : Microsoft Windows 11 Famille
 Date de démarrage (Uptime) : 2025-05-12 08:55:14
 Architecture : 64 bits
-Utilisation CPU : 14 %
-Utilisation RAM : 52.55 %
+Utilisation CPU : 17 %
+Utilisation RAM : 53.03 %
 Disque C: : 36.75 % utilisé
 Pare-feu Windows :
 True
@@ -148,5 +148,5 @@ Utilisateurs OpenSSH
 
 **********************
 PowerShell transcript end
-End time: 20250512113849
+End time: 20250512114714
 **********************

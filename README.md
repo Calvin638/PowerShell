@@ -1,5 +1,5 @@
 # PowerShell 
-Arboresence du projet :
+Arborescence du projet :
 Powershell-
           --Exports
           ---Alias.json

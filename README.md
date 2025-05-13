@@ -40,6 +40,24 @@ Ce projet a pour objectif de fournir des **scripts PowerShell** permettant de r�
 1. Ouvrir PowerShell **en tant qu'administrateur**.
 2. Exécuter le script de votre choix
 
+# TPFinal-Maintenance
+# Centre de Maintenance Windows - Script PowerShell
+
+##  But du projet 
+
+Ce projet a pour objectif de créer un menu via un **script PowerShell** permettant de faire **la maintenance d'un PC Windows efficacement**, notamment :
+
+- Maintenance système 
+- Gestion utilisateur 
+- Services Windows 
+- Gestion du registre 
+- Rapport et journalisation 
+
+##  Instructions d'exécution
+
+1. Ouvrir PowerShell **en tant qu'administrateur**.
+2. Exécuter le script de votre choix
+
 # Structure du projet 
 
 ![alt text](image.png)

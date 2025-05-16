@@ -2,6 +2,7 @@
 
 ## Structure du projet
 
+```bash
 C:.
 ├───TP1
 │   ├───Exports
@@ -18,6 +19,7 @@ C:.
 └───TPFinal-Maintenance
     ├───data
     └───logs
+```
 
 # TP1
 # Automatiser l'administration d'un poste Windows - Script PowerShell

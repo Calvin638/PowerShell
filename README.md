@@ -70,6 +70,27 @@ Ce projet a pour objectif de fournir des **scripts PowerShell** permettant d'eff
 2. Exécuter le script de votre choix
 
 
+# TP4-Powershell
+#  Projet Sécurité & Débogage - Script PowerShell
+
+## Structure du TP4
+
+![alt text](image-4.png)
+
+##  But du projet 
+
+Ce projet a pour objectif de fournir des **scripts PowerShell** permettant d'effectuer des **test script et modification de paramètre sécurité** notamment :
+
+- Déboguer un script
+- Gérer les erreurs 
+- Modififier des règles de pare-feu
+
+##  Instructions d'exécution
+
+1. Ouvrir PowerShell **en tant qu'administrateur**.
+2. Exécuter le script de votre choix
+
+
 # TPFinal-Maintenance
 # Centre de Maintenance Windows - Script PowerShell
 

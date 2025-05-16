@@ -1,11 +1,26 @@
 # PowerShell 
 
+## Structure du projet
+
+C:.
+├───TP1
+│   ├───Exports
+│   └───Scripts
+├───TP2
+│   └───WindowsAudit
+│       ├───Modules
+│       └───output
+├───TP3
+│   └───admin-avancee-powershell
+│       ├───docs
+│       └───scripts
+├───TP4-Powershell
+└───TPFinal-Maintenance
+    ├───data
+    └───logs
+
 # TP1
 # Automatiser l'administration d'un poste Windows - Script PowerShell
-
-## Structure du TP1
-
-![alt text](image-1.png)
 
 ##  But du projet 
 
@@ -24,10 +39,6 @@ La planification de tâches
 
 # TP2
 # Audit Système Windows - Script PowerShell
-
-## Structure du TP2
-
-![alt text](image.png)
 
 ##  But du projet 
 
@@ -52,10 +63,6 @@ Ce projet a pour objectif de fournir des **scripts PowerShell** permettant de r�
 # TP3
 # Administration Avancée avec PowerShell  - Script PowerShell
 
-## Structure du TP3
-
-![alt text](image-2.png)
-
 ##  But du projet 
 
 Ce projet a pour objectif de fournir des **scripts PowerShell** permettant d'effectuer rapidement des **tâches avancées d'administration systèmes** en local ainsi qu'à distance via PS-Remoting, notamment :
@@ -72,10 +79,6 @@ Ce projet a pour objectif de fournir des **scripts PowerShell** permettant d'eff
 
 # TP4-Powershell
 #  Projet Sécurité & Débogage - Script PowerShell
-
-## Structure du TP4
-
-![alt text](image-4.png)
 
 ##  But du projet 
 
@@ -94,10 +97,6 @@ Ce projet a pour objectif de fournir des **scripts PowerShell** permettant d'eff
 # TPFinal-Maintenance
 # Centre de Maintenance Windows - Script PowerShell
 
-## Structure du TPFinal
-
-![alt text](image-3.png)
-
 ##  But du projet 
 
 Ce projet a pour objectif de créer un menu via un **script PowerShell** permettant de faire **la maintenance d'un PC Windows efficacement**, notamment :
@@ -112,3 +111,12 @@ Ce projet a pour objectif de créer un menu via un **script PowerShell** permett
 
 1. Ouvrir PowerShell **en tant qu'administrateur**.
 2. Exécuter le script tp-final.ps1
+
+
+##  Contributeurs
+
+- Calvin DAVION
+
+##  License
+
+Ce projet est sous licence MIT. N'hésitez pas à utiliser et modifier le code pour vos propres projets.

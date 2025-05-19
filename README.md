@@ -16,9 +16,11 @@ C:.
 │       ├───docs
 │       └───scripts
 ├───TP4-Powershell
-└───TPFinal-Maintenance
-    ├───data
-    └───logs
+├───TPFinal-Maintenance
+│   ├───data
+│   └───logs
+└───TP_Powershell_cloud
+    └───Requetes
 ```
 
 # TP1
@@ -114,6 +116,26 @@ Ce projet a pour objectif de créer un menu via un **script PowerShell** permett
 1. Ouvrir PowerShell **en tant qu'administrateur**.
 2. Exécuter le script tp-final.ps1
 
+
+# TP_Powershell_cloud
+# Automatiser les tâches d’intégration de données dans Snowflake via PowerShell  - Script PowerShell
+
+##  But du projet 
+
+Ce projet a pour objectif de fournir des **scripts PowerShell** permettant de **gérer des base de données sur infrastructure cloud**, notamment :
+
+- Créer une table
+- Insérer des données 
+- Sélectionner des données
+- Mettre à jour des données 
+- Supprimer des données
+
+##  Instructions d'exécution
+
+1. Créer un compte Snowflake
+2. Lier le compte dans un fichier .env masqué par .gitignore
+3. Ouvrir PowerShell **en tant qu'administrateur**.
+4. Exécuter le script crud.ps1
 
 ##  Contributeurs
 

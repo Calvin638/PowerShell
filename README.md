@@ -4,6 +4,17 @@
 
 ```bash 
 C:.
+├───Exercice_Powershell
+│   ├───exercice1
+│   ├───exercice2
+│   ├───exercice3
+│   ├───exercice4
+│   │   ├───Dossier1
+│   │   └───Dossier2
+│   ├───exercice5
+│   │   └───DossierTest
+│   ├───exercice6
+│   └───exercice7
 ├───TP1
 │   ├───Exports
 │   └───Scripts
